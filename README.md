@@ -31,10 +31,10 @@
       <img width="35" src="https://img.icons8.com/?size=100&id=115371&format=png&color=FAB005">
     </a>
     <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="[instagram.png](https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=FAB005)">
+      <img width="35" src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=FAB005">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="https://img.icons8.com/?size=100&id=GN6LgEfShU2b&format=png&color=FAB005">
+    <a href = "https://tiktok.com">
+      <img width="35" src="https://img.icons8.com/?size=100&id=GN6LgEfShU2b&format=png&color=FAB005">
     </a>
 </div>
   
