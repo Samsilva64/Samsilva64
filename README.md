@@ -27,7 +27,7 @@
     <a href = "https://wa.me/+245956817901">
       <img width="35" src="https://img.icons8.com/?size=100&id=108636&format=png&color=FAB005">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+    <a href = "https://www.youtube.com/@SamSilva-d5g">
       <img width="35" src="https://img.icons8.com/?size=100&id=115371&format=png&color=FAB005">
     </a>
     <a href = "https://www.instagram.com/devparadev/">
