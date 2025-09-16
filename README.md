@@ -37,6 +37,6 @@
     </a>
 </div>
   
-![Snake animation](https://raw.githubusercontent.com/Platano/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
