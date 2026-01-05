@@ -1,6 +1,6 @@
 ## Olá! dev, Sou Sam Silva, Estudante de Programação!
 <div align="center">
- | ![](<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64&theme=dracula" alt="General stats badge"/>) | ![]() | ![]() |
+ | ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64&theme=dracula) | ![]() | ![]() |
  | :-: | :-: | :-: |
 
  | ![]() | ![]() |
