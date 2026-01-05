@@ -1,5 +1,4 @@
 ## Olá! dev, Sou Sam Silva, Estudante de Programação!
-<div align="center">
  | ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64&theme=dracula) | ![]() | ![]() |
  | :-: | :-: | :-: |
 
