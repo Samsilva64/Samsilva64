@@ -1,13 +1,9 @@
 ## Olá! dev, Sou Sam Silva, Estudante de Programação!
-
+<div align="center">
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samsilva64&theme=dracula) | ![]( http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samsilva64&theme=dracula) |
 | :-: | :-: | :-: |
 
-<!-- vn7n24fzkq -->
-![Cartão de Estatísticas do GitHub](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64)
- <!-- vn7n24fzkq -->
-![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samsilva64)
-
+</div>
 <br>
 
 <div  align="center"> 
