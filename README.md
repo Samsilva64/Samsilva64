@@ -1,16 +1,23 @@
 ## Olá! dev, Sou Sam Silva, Estudante de Programação!
-## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Samsilva64&show_icons=true&theme=great-gatsby)
+<div align="center">
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samsilva64&layout=compact&theme=great-gatsby)
+  <h2>📊 Estatísticas do GitHub</h2>
 
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Samsilva64&show_icons=true&theme=great-gatsby"
+    height="180em"
+    alt="GitHub Stats"
+  />
 
+  <br/>
 
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samsilva64&layout=compact&theme=great-gatsby"
+    height="180em"
+    alt="Top Langs"
+  />
 
-<div>
-  
- 
 </div>
 <br>
 
