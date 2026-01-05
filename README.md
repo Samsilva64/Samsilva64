@@ -1,7 +1,8 @@
 ## Olá! dev, Sou Sam Silva, Estudante de Programação!
 <!-- vn7n24fzkq -->
 ![Cartão de Estatísticas do GitHub](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64)
- 
+ <!-- vn7n24fzkq -->
+![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samsilva64)
 
 <br>
 
