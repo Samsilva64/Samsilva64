@@ -1,6 +1,6 @@
 ## Olá! dev, Sou Sam Silva, Estudante de Programação!
 <div align="center">
- | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samsilva64&theme=dracula) | ![]( http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samsilva64&theme=dracula) |
+ | ![]() | ![]() | ![]() |
  | :-: | :-: | :-: |
 
 </div>
