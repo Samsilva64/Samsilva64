@@ -1,10 +1,7 @@
 ## Olá! dev, Sou Sam Silva, Estudante de Programação!
 
-<div align="center">
+ [![Aline Espindola](https://github-readme-stats.vercel.app/api?username=Samsila64&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)]
 
- [![Aline Espindola](https://github-readme-stats.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)]
-
-</div>
 <br>
 
 <div  align="center"> 
