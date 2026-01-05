@@ -1,4 +1,8 @@
 ## Olá! dev, Sou Sam Silva, Estudante de Programação!
+
+| ![].(http://guithub-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64&theme-jolly) | ![](http://guithub-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samsilva64&theme-jolly) | [].(http://guithub-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samsilva64&theme-jolly&utc0ffset=8) |
+| :-: | :-: | :-: |
+
 <!-- vn7n24fzkq -->
 ![Cartão de Estatísticas do GitHub](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64)
  <!-- vn7n24fzkq -->
