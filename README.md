@@ -43,7 +43,7 @@
     <a href = "https://www.youtube.com/@SamSilva-d5g">
       <img width="35" src="https://img.icons8.com/?size=100&id=115371&format=png&color=FAB005">
     </a>
-    <a href = "https://www.instagram.com/TomgTech/">
+    <a href = "https://www.instagram.com/TomgTech/" target="_blank">
       <img width="35" src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=FAB005">
     </a>
     <a href = "https://www.tiktok.com/@tomgtech">
