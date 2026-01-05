@@ -2,21 +2,7 @@
 
 <div align="center">
 
-  <h2>📊 Estatísticas do GitHub</h2>
-
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Samsilva64&show_icons=true&theme=great-gatsby"
-    height="180em"
-    alt="GitHub Stats"
-  />
-
-  <br/>
-
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samsilva64&layout=compact&theme=great-gatsby"
-    height="180em"
-    alt="Top Langs"
-  />
+ [![Aline Espindola](https://github-readme-stats.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/AlineEspindola)
 
 </div>
 <br>
