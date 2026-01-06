@@ -1,9 +1,9 @@
 ## Olá! dev, Sou Sam Silva, Estudante de Programação!
 
- | ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64&theme=dracula) | ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samsilva64&theme=dracula) | ![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samsilva64&theme=dracula&utcOffset=8) |
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samsilva64&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samsilva64&theme=jolly&utcOffset=8) |
  | :-: | :-: | :-: |
 
- | ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samsilva64&theme=dracula) | ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samsilva64&theme=dracula) |
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samsilva64&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samsilva64&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
  | :-: | :-: |
 
 <br>
