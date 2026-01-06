@@ -3,7 +3,7 @@
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samsilva64&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samsilva64&theme=jolly&utcOffset=8) |
  | :-: | :-: | :-: |
 
- | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samsilva64&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samsilva64&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samsilva64&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samsilva64&theme=jolly&hide_border=true)](https://git.io/streak-stats)|
  | :-: | :-: |
 
 <br>
