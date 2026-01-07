@@ -1,3 +1,5 @@
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0019FF">
+
 ## Olá! dev, Sou Sam Silva, Estudante de Programação!
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samsilva64&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samsilva64&theme=jolly&utcOffset=8) |
