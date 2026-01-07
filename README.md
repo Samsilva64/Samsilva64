@@ -1,5 +1,5 @@
 <div align="center" width=100%> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&width=100%&color=0019FF"> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=0019FF&width=435&lines=Ol%C3%A1!+dev%2C+Sou+Sam+Silva!;Estudante+de+Programa%C3%A7%C3%A3o+D.S)](https://git.io/typing-svg)</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=0019FF&width=435&lines=Ol%C3%A1!+dev%2C+Sou+Sam+Silva!;Estudante+de+Programa%C3%A7%C3%A3o+D.S" alt="Typing SVG" /></a></div>
 
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samsilva64&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samsilva64&theme=jolly&utcOffset=8) |
