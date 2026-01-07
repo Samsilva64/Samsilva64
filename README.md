@@ -19,7 +19,7 @@
     <img align="center" height="35" width="45" alt="java" src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=FAB005">
    </div>
     
-  <div> <img src="https://pin.it/8z9SfTEbh"> </div>
+  <div> <img src="https://pin.it/8z9SfTEbh.png"> </div>
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: samsilva64bit@gmail.com">
       <img width="35" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=FAB005">
