@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0019FF"> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&width=200&color=0019FF"> </div>
 
 <div align="center">
 ## Olá! dev, Sou Sam Silva, Estudante de Programação!
