@@ -1,5 +1,6 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0019FF"> </div>
 
+<div align="center">
 ## Olá! dev, Sou Sam Silva, Estudante de Programação!
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samsilva64&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samsilva64&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samsilva64&theme=jolly&utcOffset=8) |
@@ -41,6 +42,8 @@
 </div>
   
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0019FF&section=footer"> </div>
 
