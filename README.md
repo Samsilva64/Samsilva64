@@ -21,7 +21,7 @@
    </div>
     
   <div>
-    <a href = "mailto: samsilva64bit@gmail.com">
+    <a href = "mailto:samsilva64bit@gmail.com">
       <img width="35" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=FAB005">
     </a>
     <a href = "https://wa.me/+245956817901">
